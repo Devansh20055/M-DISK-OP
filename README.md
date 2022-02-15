@@ -33,7 +33,7 @@ Start your Bot in Telegram & Enjoy
 
 #NOTE ⚡️⚡️
 -⚡️⚡️ IF ANY ERROR LIKE IT VIOLATED RULES COME THEN FORK REPO 
-AND PUT YOUR FORKED REPO LINK (https://www.heroku.com/deploy?template= AFTER THIS TEXT ⚡️⚡️
+AND PUT YOUR FORKED REPO LINK https://www.heroku.com/deploy?template= AFTER THIS TEXT ⚡️⚡️
 
 ##### Required Variables
 
