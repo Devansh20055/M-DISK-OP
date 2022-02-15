@@ -29,7 +29,11 @@ Done ✅
 Start your Bot in Telegram & Enjoy
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Shashwat-Shukla/mdisk-ultra-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Devansh20055/M-DISK-OP)
+
+#NOTE ⚡️⚡️
+-⚡️⚡️ IF ANY ERROR LIKE IT VIOLATED RULES COME THEN FORK REPO 
+AND PUT YOUR FORKED REPO LINK (https://www.heroku.com/deploy?template= AFTER THIS TEXT ⚡️⚡️
 
 ##### Required Variables
 
@@ -40,4 +44,4 @@ API ID & HASH are not required to be changed but change it with yours if you wan
 
 ##### Credit
 
-- Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
+- Me [Shashwat-Shukla](https://github.com/Devansh20055) For This Repo
